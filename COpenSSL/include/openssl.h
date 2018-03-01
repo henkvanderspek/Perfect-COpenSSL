@@ -7,3 +7,5 @@
 #include "../hmac.h"
 #include "../rand.h"
 #include "../cms.h"
+#include "../engine.h"
+#include "../conf.h"
